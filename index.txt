@@ -1,0 +1,15 @@
+3:"$Sreact.fragment"
+4:I[5244,[],""]
+5:I[3866,[],""]
+6:I[5311,["463","static/chunks/463-e1a01885add8fe9e.js","345","static/chunks/app/not-found-08578a2eb2c9464d.js"],"default"]
+7:I[9644,["969","static/chunks/969-0b0804ffd692b421.js","974","static/chunks/app/page-0547bd8e2ac15c85.js"],"default"]
+8:I[6213,[],"OutletBoundary"]
+a:I[6213,[],"MetadataBoundary"]
+c:I[6213,[],"ViewportBoundary"]
+e:I[4835,[],""]
+1:HL["/_next/static/css/f88cbcb44c614424.css","style"]
+2:HL["/_next/static/css/e7beb896889c52dc.css","style"]
+0:{"P":null,"b":"sm1LSlpyzGCT9h1q0_36X","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$3","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f88cbcb44c614424.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_1fc7a2","children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$L6",null,{}],"notFoundStyles":[["$","link","style-0",{"rel":"stylesheet","href":"/_next/static/css/6dd29b2f8fd0428b.css","precedence":"next","crossOrigin":"$undefined"}]]}]}]}]]}],{"children":["__PAGE__",["$","$3","c",{"children":[["$","$L7",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e7beb896889c52dc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L8",null,{"children":"$L9"}]]}],{},null]},null],["$","$3","h",{"children":[null,["$","$3","K2CZ4r8gC_UqaNafLfeqU",{"children":[["$","$La",null,{"children":"$Lb"}],["$","$Lc",null,{"children":"$Ld"}],null]}]]}]]],"m":"$undefined","G":["$e","$undefined"],"s":false,"S":true}
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Login required | Lirecent"}],["$","meta","2",{"name":"description","content":"Login page for Lirecent"}],["$","link","3",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+9:null
